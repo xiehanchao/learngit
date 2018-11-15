@@ -1,5 +1,5 @@
 一、Git常用命令
-01. git add 目录	*		   
+01. git add 目录		   
     // 将目录下的文件添加到本地
 02. git pull                                
     // 将master分支下的远程仓库中的git库文件最新版本pull下来，前提是没有修改当前目录下的git文件，若
@@ -42,4 +42,4 @@
 	git config user.email 
     // 查看当前邮箱名
 16. git fetch
-    //刷新git服务器端的分支，更新本地的现有分支d
+    //刷新git服务器端的分支，更新本地的现有分支x
