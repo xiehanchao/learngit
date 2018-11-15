@@ -42,4 +42,4 @@
 	git config user.email 
     // 查看当前邮箱名
 16. git fetch 
-    //刷新git服务器端的分支，更新本地的现有分支s
+    //刷新git服务器端的分支，更新本地的现有分支
